@@ -26,7 +26,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Login</title>
+    <title>Login v2</title>
 </head>
 <body>
     <h2>Iniciar Sesión</h2>
